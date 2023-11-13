@@ -1,0 +1,7 @@
+Per eseguire il codice, da terminale :
+
+   1  posizionarsi nella cartella in cui è presente il file con all'interno il codice python
+
+   2) installare la libreria per il qr da terminale con il comando : pip install qrcode[pil]
+
+   3) eseguire poi il programma con python3 qr_code_generator.py
