@@ -2,4 +2,4 @@
 
 Descrizione :
 
-L'algoritmo generare un codice QR a partire da una stringa di dati (URL). Il codice successivamente salva l'immagine del codice QR come file PNG e mostra l'immagine del qr.
+L'algoritmo in Python che generare un codice QR a partire da una stringa di dati (URL). Il codice successivamente salva l'immagine del codice QR come file PNG e mostra l'immagine del qr.
